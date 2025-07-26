@@ -19,7 +19,7 @@ To run this project, ensure you have the following:
 - **Python Libraries:**
   - **pandas:** For data manipulation and CSV file handling.
   - **numpy:** For numerical operations.
-- **CSV Dataset:** A file named `FloodingAttack.csv` is used to demonstrate network traffic analysis. The notebook assumes this file is available (for example, mounted via Google Drive as shown in the code fileciteturn0file4).
+- **CSV Dataset:** A file named `FloodingAttack.csv` is used to demonstrate network traffic analysis. The notebook assumes this file is available (for example, mounted via Google Drive as shown in the code.
 
 ## Usage
 
@@ -32,7 +32,7 @@ To run this project, ensure you have the following:
      from google.colab import drive
      drive.mount('/content/drive')
      ```
-     This step ensures that the notebook can load the `FloodingAttack.csv` file from your drive fileciteturn0file4.
+     This step ensures that the notebook can load the `FloodingAttack.csv` file from your drive .
 
 3. **Running the Analysis:**
    - Execute the code cells sequentially. The notebook starts with basic data import using pandas and then displays the dimensions of the dataset and a preview of the data.
