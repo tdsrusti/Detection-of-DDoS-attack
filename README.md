@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This project is designed to analyze network traffic data with the aim of detecting Distributed Denial of Service (DDoS) attacks. The repository contains a Jupyter Notebook that demonstrates how to process a dataset containing network statistics, extract important features, and identify potential instances of flooding attacks. The notebook uses Python along with libraries such as pandas and numpy to load and analyze data, making it suitable for both research and educational purposes. The analysis includes loading a CSV file containing network statistics and applying methods to recognize anomalies that may indicate a DDoS attack, as seen in the provided notebook examples fileciteturn0file4.
+This project is designed to analyze network traffic data with the aim of detecting Distributed Denial of Service (DDoS) attacks. The repository contains a Jupyter Notebook that demonstrates how to process a dataset containing network statistics, extract important features, and identify potential instances of flooding attacks. The notebook uses Python along with libraries such as pandas and numpy to load and analyze data, making it suitable for both research and educational purposes. The analysis includes loading a CSV file containing network statistics and applying methods to recognize anomalies that may indicate a DDoS attack.
 
 ## Features
 
